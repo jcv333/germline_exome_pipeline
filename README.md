@@ -3,7 +3,7 @@
 Pipeline to process exome-sequenced BAM files with basic parameters, from alignment to annotation.
 
 ### Disclaimer.
-This repository provides an example of a mock pipeline for processing blood BAM files for downstream germline exome analysis. The pipeline is broken down into individual scripts `.sh`, intended to serve as generalized templates, which can be adapted to users' specific needs.
+This repository provides an example of a mock pipeline for processing blood BAM files for downstream germline exome analysis. The pipeline is broken down into individual scripts `.sh`, intended to serve as generalized templates, which can be adapted or modified according to users' specific needs.
 
 ## 1) Alignment to the human reference genome hg19.
 Script available in the subdirectory <b> 01_Alignment </b>, file `alignment.sh`.
