@@ -15,5 +15,5 @@ Script is available in the subdirectory `variant_calling.sh`.
 Script is available in the subdirectory `hard_filtering.sh`.
 
 ## Annotation with Annovar.
-Script is available in the subdirectory `annotation.sh`.
+Script is available in the subdirectory `annotation.sh`. Additionally, installation of annovar is exemplified in `Script_install_annovar_commandline.sh`.
 
