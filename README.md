@@ -1,6 +1,6 @@
-# Exome pipeline for germline samples (blood/normal tissue).
+# Exome pipeline for germline samples (blood/normal tissue) from cancer patients.
 ## Repository created by Jose Camacho Valenzuela.
-Pipeline to process exome-sequenced BAM files with basic parameters, from alignment to annotation.
+Pipeline to process exome-sequenced BAM files (normal/blood samples) with basic parameters, from alignment to annotation.
 
 ### Disclaimer.
 This repository provides an example of a mock pipeline for processing blood BAM files for downstream germline exome analysis. The pipeline is broken down into individual scripts `.sh`, intended to serve as generalized templates, which can be adapted or modified according to users' specific needs.
