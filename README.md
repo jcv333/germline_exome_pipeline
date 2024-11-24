@@ -1,4 +1,4 @@
-# Exome analysis: genomic pipelines.
+# Exome pipeline for germline samples (blood/normal tissue).
 ## Repository created by Jose Camacho Valenzuela.
 Pipeline to process exome-sequenced BAM files with basic parameters, from alignment to annotation.
 
