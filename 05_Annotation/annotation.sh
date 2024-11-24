@@ -15,7 +15,8 @@ cd /home/josecv3/projects/def-wfoulkes/josecv3/Annovar_commandline/annovar
 table_annovar.pl $source/bam1.unannotated.vcf.gz \
 humandb/ --buildver hg19 \
 --outfile $source/bam1.annotated \
---remove --protocol snp138,exac03nontcga,cosmic70,revel,mcap,gnomad_genome,dbnsfp30a,dbscsnv11,clinvar_20220320,cytoBand,refGene \
+--remove \
+--protocol snp138,exac03nontcga,cosmic70,revel,mcap,gnomad_genome,dbnsfp30a,dbscsnv11,clinvar_20220320,cytoBand,refGene \
 --operation f,f,f,f,f,f,f,f,f,r,g \
 --nastring . \
 --otherinfo \
